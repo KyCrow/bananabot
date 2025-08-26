@@ -1,0 +1,44 @@
+{
+    "fun": [
+        { "name": "/8ball", "description": "Répond à une de tes question" },
+        { "name": "/citation", "description": "Envoie une citation inspirante" },
+        { "name": "/citoyen", "descrition": "Envoie ta carte de la RB (aléatoire)"},
+        { "name": "/blague", "description": "Raconte une blague" },
+        { "name": "/hug", "description": "Fait un câlin" },
+        { "name": "/slap", "description": "Donne une gifle" },
+        { "name": "/banane_du_jour", "description": "Affiche la banane du jour" },
+        { "name": "/musique", "description": "Envoie un lien de musique" },
+        { "name": "/coinflip", "description": "Pile ou face" },
+        { "name": "/meme", "description": "Envoie un meme" },
+        { "name": "/décret", "description": "Affiche un décret aléatoire" },
+        {"name": "/insulteamicale", "description": "Envoie une insulte amicale"},
+        { "name": "/danse", "description": "Envoie un gif de danse" }
+    ],
+    "moderation": [
+        { "name": "/addrole", "description": "Ajoute un rôle à un membre" },
+        { "name": "/removerole", "description": "Retire un rôle à un membre" },
+        { "name": "/kick", "description": "Expulse un membre" },
+        { "name": "/ban", "description": "Bannit un membre" },
+        { "name": "/unban", "description": "Débannit un membre" },
+        { "name": "/mute", "description": "Mute un membre" },
+        { "name": "/unmute", "description": "Unmute un membre" },
+        { "name": "/clear", "description": "Supprime des messages" },
+        { "name": "/warn", "description": "Avertit un membre" },
+        { "name": "/unwarn", "description": "Suprimme l'avertissement d'un membre" },
+        { "name": "/slowmode", "description": "Ralentit le temps d'un salon" },
+        { "name": "/warnlist", "description": "Affiche les infractions d’un membre" }
+
+    ],
+    "utils": [
+        { "name": "/avatar", "description": "Affiche l’avatar d’un membre" },
+        { "name": "/invite", "description": "Lien d’invitation du serveur" },
+        { "name": "/ping", "description": "Affiche le ping du bot" },
+        { "name": "/say", "description": "Faire dire quelque chose au bot (modo)" },
+        { "name": "/serverinfos", "description": "Affiche les infos du serveur" },
+        { "name": "/youtube", "description": "Lien vers la chaîne YouTube" },
+        { "name": "/sondage", "description": "Créer un sondage avec plusieurs options et réactions" },
+        { "name": "/suggest", "description": "Laisse une suggestion" },
+        { "name": "/servericon", "description": "Affiche la PDP du serveur" },
+        { "name": "/help", "description": "Affiche l’aide par catégorie" }
+    ]
+}
